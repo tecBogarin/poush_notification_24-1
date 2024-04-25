@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
         ],
       ),
       body: const Center(
-        child: Text("hola mundo"),
+        child: Text("hola alumnos"),
       ),
     );
   }
